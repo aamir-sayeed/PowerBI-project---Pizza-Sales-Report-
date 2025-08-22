@@ -15,3 +15,6 @@ KPIs used
 - Total Pizzas Sold  
 - Total Orders  
 - Average Pizzas per Order
+
+Snapshot of the Dashboard
+https://github.com/aamir-sayeed/PowerBI-project---Pizza-Sales-Report-/blob/main/Snapshot%20of%20the%20Dashboard.png
